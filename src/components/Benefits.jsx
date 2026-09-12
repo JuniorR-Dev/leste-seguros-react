@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import Cars from "../components/cars";
+
 
 
 import {
